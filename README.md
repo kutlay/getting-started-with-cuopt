@@ -18,4 +18,6 @@ A `reboot` is required after this step.
 
 Run `2-test.sh` to run a simple model shared by NVIDIA. Look for the solution of the problem printed on the terminal, and the total travel time solution.
 
+## Linode Images
 
+GPUs are costly, file storage is cheap. If you're trying this out on Linode, I recommend [capturing an image](https://techdocs.akamai.com/cloud-computing/docs/capture-an-image) of your Linode after the installation process.
