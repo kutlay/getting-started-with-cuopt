@@ -3,6 +3,7 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.12
 python3.12 --version
 sudo apt install python3-pip
+sudo apt install python3.12-venv
 
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-ubuntu2204.pin
 sudo mv cuda-ubuntu2204.pin /etc/apt/preferences.d/cuda-repository-pin-600
